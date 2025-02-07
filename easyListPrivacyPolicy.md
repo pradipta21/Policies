@@ -17,6 +17,6 @@ As all data is stored on your device, we encourage you to maintain the security 
 ## 5. Changes to the Privacy Policy  
 If we update this privacy policy in the future, we will notify users within the app and update the policy accordingly.
 
-By using Easy List, you consent to the terms of this privacy policy. If you have any questions or concerns about your privacy, please feel free to contact us at easylistrepo@gamil.com.
+By using Easy List, you consent to the terms of this privacy policy. If you have any questions or concerns about your privacy, please feel free to contact us at easylistrepo@gmail.com.
 
 _Last updated: 18-Nov-2024
